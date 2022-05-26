@@ -24,7 +24,7 @@
 /**
  * Marlin release version identifier
  */
-#define SHORT_BUILD_VERSION "2.0.1-Aperture"
+#define SHORT_BUILD_VERSION "Enrichment-2.1.0"
 
 /**
  * Verbose version identifier which should contain a reference to the location
@@ -37,12 +37,12 @@
  * here we define this default string as the date where the latest release
  * version was tagged.
  */
-#define STRING_DISTRIBUTION_DATE "2022-04-12"
+#define STRING_DISTRIBUTION_DATE "2022-05-26"
 
 /**
  * Defines a generic printer name to be output to the LCD after booting Marlin.
  */
-#define MACHINE_NAME "Gnocchi"
+#define MACHINE_NAME "Penne"
 
 /**
  * The SOURCE_CODE_URL is the location where users will find the Marlin Source
@@ -61,7 +61,7 @@
  * The WEBSITE_URL is the location where users can get more information such as
  * documentation about a specific Marlin release.
  */
-#define WEBSITE_URL "marlinfw.org"
+#define WEBSITE_URL "http://marlinfw.org"
 
 /**
  * Set the vendor info the serial USB interface, if changable
