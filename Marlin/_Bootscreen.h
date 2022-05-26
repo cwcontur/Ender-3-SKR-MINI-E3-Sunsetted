@@ -1,9 +1,9 @@
 /**
  * Made with Marlin Bitmap Converter
  * https://marlinfw.org/tools/u8glib/converter.html
- *
- * This bitmap from the file 'ApertureBoot-3.png'
+ * 
  */
+
  /**
  * The Aperture Laboratories Logo is owned and copyrighted by Valve, Inc and
  * was adapted into this form by Kyle (Tony) Kuhn.
