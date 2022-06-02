@@ -1,6 +1,6 @@
-# Marlin 3D Printer Firmware
-<img src="https://img.shields.io/tokei/lines/github/cwcontur/Ender-3-SKR-MINI-E3-V3-CR-Touch?color=red"> <img src="https://img.shields.io/github/license/marlinfirmware/marlin.svg"> <img src="https://img.shields.io/github/v/release/cwcontur/Ender-3-SKR-MINI-E3-V3-CR-Touch?color=yellow&include_prereleases"/> <img src="https://img.shields.io/github/release-date/cwcontur/Ender-3-SKR-MINI-E3-V3-CR-Touch"> <img src="https://img.shields.io/badge/-Contursi-blue" alt="GitHub release"/> <img src="https://awesome.re/badge.svg">
- <img src="https://img.shields.io/github/languages/top/cwcontur/Contursi-Marlin-Firmware?color=purple"/>
+# Marlin 2.0.x Firmware for SKR Mini E3 v3 w/ CR-Touch
+<img src="https://img.shields.io/github/license/marlinfirmware/marlin.svg"> <img src="https://img.shields.io/github/v/release/cwcontur/Ender-3-SKR-MINI-E3-V3-CR-Touch?color=yellow&include_prereleases"/> <img src="https://img.shields.io/github/release-date/cwcontur/Ender-3-SKR-MINI-E3-V3-CR-Touch"> <img src="https://img.shields.io/badge/-Contursi-blue" alt="GitHub release"/>  <img src="https://img.shields.io/github/languages/top/cwcontur/Contursi-Marlin-Firmware?color=purple"/>
+<img src="https://awesome.re/badge.svg">
 
 <img align="right" width=175 src="buildroot/share/pixmaps/logo/marlin-250.png" />
 
@@ -11,11 +11,7 @@ Please test this firmware and let us know if it misbehaves in any way. Volunteer
 
 Marlin 2.0 takes this popular RepRap firmware to the next level by adding support for much faster 32-bit and ARM-based boards while improving support for 8-bit AVR boards. Read about Marlin's decision to use a "Hardware Abstraction Layer" below.
 
-Download earlier versions of Marlin on the [Releases page](https://github.com/MarlinFirmware/Marlin/releases).
-
-## Example Configurations
-
-Before building Marlin you'll need to configure it for your specific hardware. Your vendor should have already provided source code with configurations for the installed firmware, but if you ever decide to upgrade you'll need updated configuration files. Marlin users have contributed dozens of tested example configurations to get you started. Visit the [MarlinFirmware/Configurations](https://github.com/MarlinFirmware/Configurations) repository to find the right configuration for your hardware.
+[Releases page](https://github.com/MarlinFirmware/Marlin/releases).
 
 ## Building Marlin 2.0
 
