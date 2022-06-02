@@ -1,4 +1,4 @@
-# Marlin 3D Printer Firmware
+# Marlin 2.0.x Firmware for SKR Mini E3 v3 w/ CR-Touch
 <img src="https://img.shields.io/github/license/marlinfirmware/marlin.svg"> <img src="https://img.shields.io/github/v/release/cwcontur/Ender-3-SKR-MINI-E3-V3-CR-Touch?color=yellow&include_prereleases"/> <img src="https://img.shields.io/github/release-date/cwcontur/Ender-3-SKR-MINI-E3-V3-CR-Touch"> <img src="https://img.shields.io/badge/-Contursi-blue" alt="GitHub release"/>  <img src="https://img.shields.io/github/languages/top/cwcontur/Contursi-Marlin-Firmware?color=purple"/>
 <img src="https://awesome.re/badge.svg">
 
