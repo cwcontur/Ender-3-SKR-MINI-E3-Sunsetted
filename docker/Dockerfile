@@ -1,4 +1,4 @@
-FROM python:3.8.15-buster
+FROM python:3.9.16-buster
 
 RUN pip install -U https://github.com/platformio/platformio-core/archive/develop.zip
 RUN platformio update
